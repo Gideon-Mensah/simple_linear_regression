@@ -17,12 +17,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 ```
-### Load the data
+### Load the data and run the data (run the data by pressing shift + enter)
 ```
 pd.set_option('display.max_rows', None)
 file_path = r"C:\Users\Lenovo\Desktop\Projects\Data Analysis\data\1.01.+Simple+linear+regression.csv"
 data = pd.read_csv(file_path)
+data
 ```
+
+### Load the data
 ## Discussion of result 
 ## Conclusion
 

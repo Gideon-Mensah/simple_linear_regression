@@ -32,7 +32,15 @@ data.describe()
 ```
 <img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data_description.png">
 
-### Load the data
+### Create regression analysis
+
+#### Define dependant and independant variable
+```
+y = data['GPA']
+x1 = data ['SAT']
+
+```
+
 ## Discussion of result 
 ## Conclusion
 

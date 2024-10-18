@@ -40,7 +40,15 @@ y = data['GPA']
 x1 = data ['SAT']
 
 ```
+#### Explore the data by plotting it on a scatter diagram
+```
+plt.scatter(x1,y)
+plt.xlabel('SAT', fontsize=20)
+plt.ylabel('GPA', fontsize=20)
+plt.show()
 
+```
+<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/Scatter_diagram.png">
 ## Discussion of result 
 ## Conclusion
 

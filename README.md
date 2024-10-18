@@ -26,6 +26,11 @@ data = pd.read_csv(file_path)
 data
 ```
 <img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data.png">
+Run this code to describe the data
+```
+data.describe()
+```
+<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data.png">
 
 ### Load the data
 ## Discussion of result 

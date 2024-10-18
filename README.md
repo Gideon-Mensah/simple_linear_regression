@@ -30,7 +30,7 @@ Run this code to describe the data
 ```
 data.describe()
 ```
-<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data.png">
+<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data_description.png">
 
 ### Load the data
 ## Discussion of result 

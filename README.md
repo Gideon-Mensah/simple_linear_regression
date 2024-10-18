@@ -60,5 +60,12 @@ results.summary()
 <img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/regression_result.png">
 
 ## Discussion of result 
+R-squared in simple regression indicates the proportion of the variance in the dependent variable (the variable being predicted) that is explained by the independent variable.
+The R-squared value ranges from 0 to 1:
+
+R-squared = 0: This indicates that the independent variable does not explain any of the variation in the dependent variable.
+R-squared = 1: This indicates that the independent variable explains all of the variation in the dependent variable.
+
+NB: A higher R-squared value indicates a better fit of the model to the data, as it suggests that a greater proportion of the variance in the dependent variable is explained by the independent variable
 ## Conclusion
 

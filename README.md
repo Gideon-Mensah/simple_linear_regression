@@ -49,6 +49,16 @@ plt.show()
 
 ```
 <img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/Scatter_diagram.png">
+
+#### Run the regression itself
+```
+x = sm.add_constant(x1)
+results = sm.OLS(y,x).fit()
+results.summary()
+
+```
+<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/regression_result.png">
+
 ## Discussion of result 
 ## Conclusion
 

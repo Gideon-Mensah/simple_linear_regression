@@ -8,7 +8,7 @@ Visualize the relationship between SAT scores and GPA using Python’s visualiza
 Highlight the use of Python and Jupyter as effective tools for academic research and data analysis, making the process transparent, reproducible, and easy to follow.
 This demonstration will serve as an educational example of how Python and Jupyter can be employed to perform and present regression analysis in a clear and accessible format.
 ## Procedure
-I have included the CSV data necessary for running this regression analysis. 
+I have included the CSV data necessary for running this regression analysis. https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/1.01.%2BSimple%2Blinear%2Bregression.csv
 First, download the CSV data file. Next, download and install Anaconda, and run Jupyter Notebook from Anaconda. After opening a new notebook in Jupyter, follow the procedure outlined below:
 ### Import the relevant libraries
 This can be achieved by writing the following code in Jupyter
@@ -25,6 +25,7 @@ file_path = r"C:\Users\Lenovo\Desktop\Projects\Data Analysis\data\1.01.+Simple+l
 data = pd.read_csv(file_path)
 data
 ```
+<img src="https://github.com/Gideon-Mensah/simple_linear_regression/blob/main/data.png">
 
 ### Load the data
 ## Discussion of result 
